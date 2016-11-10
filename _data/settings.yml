@@ -1,0 +1,62 @@
+audit_header: false
+title: Silicon Valley Real Estate Video Blog
+description: 'Learn all the tips, tricks and more for buyers and sellers in the San Jose Area Real Estate Market'
+show_custom_links: true
+custom_links:
+  - title: Marketing Plan
+    url: http://realestateprg.com/our-marketing/
+  - title: Our Listings
+    url: http://realestateprg.com/listings/
+client:
+  name:
+  license_number:
+  about_markdown: |
+    Enrique Medellin leads #TEAMPRG, a new breed of Realtors who are redefining traditional methods, by bringing a fresh and modern approach to Real Estate. By leveraging cutting-edge marketing, the latest in Real Estate technology and providing World-Class customized service, #TEAMPRG has earned a reputation for delivering extraordinary results for buyer and sellers throughout the Silicon Valley/Bay Area.
+
+    Why hire #TEAMPRG to sell your home? Our Average Sales Price is 5% over list price and Average Days on Market 19 days (Area Average is 50 days). We sell homes FASTER and for MORE money.
+  market: San Jose
+  brand: PRG Real Estate
+  brokerage:
+  address: '1590 Oakland Rd #B104<br>San Jose, CA 95131'
+  phone: 408-416-2488
+  email: info@realestatePRG.com
+  url: http://RealEstatePRG.com
+  first_CTA_text: Home Evaluation
+  first_CTA_URL: 'http://www.texthomevalue.com'
+  second_CTA_text: Home Search
+  second_CTA_URL: 'http://www.buysellprg.com/'
+  VR_form: 'http://oi.vresp.com?fid=17b8cb16c6'
+welcome_headline: Get Educated About Real Estate
+welcome_text_markdown: 'Our mission at The Treasure Davis Team is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.'
+socials:
+  review_sm_icons: false
+  facebook_url: 'https://www.facebook.com/ParamountRealtyGroup/'
+  linkedin_url: 'https://www.linkedin.com/company/paramount-realty-group'
+  gplus_url:
+  youtube_url: 'https://www.youtube.com/channel/UCMiC_NieOuhzi3qNys7x6Kw'
+  twitter_url: 'https://twitter.com/teamdavis1004'
+  instagram_url:
+  pinterest_url:
+  zillow_url: 'http://www.zillow.com/profile/TEAM-PRG/'
+  trulia_url: 
+  yelp_url:
+  podcast_url: 'https://itunes.apple.com/us/podcast/enrique-medellin-real-estate/id1075193302?mt=2'
+podcast:
+  title: PRG Real Estate Podcast
+  categories: 'News &amp; Politics'
+  image: 'http://i.imgur.com/DUtCRwl.png'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the San Jose Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Durwin Homes Group - your professional San Jose Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Jose, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: Enrique Medellin
+images:
+  client_headshot_path: /img/headshot.jpg
+  hero_logo_path: /img/logo.png
+  hero_text: Real Estate Video Blog
+  hero_background_hex: '#27b9cd'
+  hero_image_path: /img/background.jpg
+brand_color: '#27b9cd'
+theme_color: '#4A4A4A'
+theme_text_color: '#353535'
+main_body_color: '#f9f9f9'
+main_body_text_color: '#353535'
