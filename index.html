@@ -4,6 +4,7 @@ layout: default
 <!-- blog feed -->
 <div class="post-block-container">
       {% for post in paginator.posts %}
+      					<a href="{{post.url}}">
         <div class="post-block">
 					{% if post.use_youtube_image == true %}
 					<img src="http://img.youtube.com/vi/{{post.youtube_code}}/maxresdefault.jpg" alt="{{post.title}}" class="post-image" />
@@ -14,14 +15,15 @@ layout: default
 					<span class="post-meta">
 						{{ post.date | date: "%b %-d, %Y" }}</span>
           <div class="post-excerpts">
-						<a href="{{post.url}}">
-	          </a>
+	
+
 						{{ post.excerpt | truncate: 380 | strip_html | prepend: "<p class='excerpt'>" | append: "<p>" }}
           </div>
 					<div class="readmore-container">
 						<p class="readlink"><a href="{{post.url}}" class="readmore">Read More</a></p>
 					</div>
 				</div>
+			</a>
 
       {% endfor %}
 	</div>
