@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>PRG Real Estate Podcast</title>
-    <link>http://treasuredavisrealestateadvisors.com</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://treasuredavisrealestateadvisors.com"/>
+    <link>http://prg-re.blog</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://prg-re.blog"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Durwin Homes Group - your professional San Jose Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Enrique Medellin</managingEditor>
-    <lastBuildDate>2016-11-10 14:18:44 -0600</lastBuildDate>
+    <lastBuildDate>2016-11-23 10:31:48 -0600</lastBuildDate>
     <media:copyright>Enrique Medellin</media:copyright>
-    <media:thumbnail url="http://treasuredavisrealestateadvisors.comhttp://i.imgur.com/DUtCRwl.png"/>
+    <media:thumbnail url="http://prg-re.bloghttp://i.imgur.com/DUtCRwl.png"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Jose, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
@@ -18,15 +18,52 @@
     </itunes:owner>
     <itunes:author>Enrique Medellin</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://treasuredavisrealestateadvisors.comhttp://i.imgur.com/DUtCRwl.png"/>
+    <itunes:image href="http://prg-re.bloghttp://i.imgur.com/DUtCRwl.png"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Jose, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the San Jose Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Durwin Homes Group - your professional San Jose Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
+        <title>The Importance of Professional Photography</title>
+        <link>http://prg-re.blog/the-importance-of-professional-photography.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Enrique Medellin</author>
+        <pubDate>2016-11-16 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Enrique+Medellin/Silicon+Valley+Real+Estate-+Using+photos+to+lure+online+home+buyers.mp4</guid>
+        <description>
+
+Professional photos of your home are extremely important when you list it for sale on the market.
+
+In today’s world of real estate, 90% of buyers start their home search online. When they see your home on websites like Zillow and Redfin, the first thing they see is the photos. If your photos don’t make an amazing first impression, they will likely skip over it.
+
+Sadly, there are a lot of agents out there who don’t hire professional photographers to shoot photos of their clients’ homes simply to save money. They don’t want to invest in the marketing, so they actually try to take the photos themselves.
+
+Many of them are not good at taking photos, and many just use their smartphone to shoot pictures. I cannot tell you home many times I’ve seen photos of homes where you can see a Realtor in the mirror holding up their iPhone in the shot.
+
+“You have to make an amazing first impression with online buyers.”
+
+These photos come out horribly; they don’t pop and they don’t make the home stand out. The camera on an iPhone just won’t do your home justice, and the same goes for someone who doesn’t have experience shooting photos professionally.
+
+You want to work with someone who knows how to work the lighting and the angles to show your home in its best light. The next time you work with a Realtor when selling a home, you need to ask whether they use professional photography. We invest thousands of dollars in professional photos for our clients.
+
+I hope you found this tip helpful. If you have any more questions about marketing your home or about the Silicon Valley real estate market, give me a call anytime.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Enrique+Medellin/Silicon+Valley+Real+Estate-+Using+photos+to+lure+online+home+buyers.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://prg-re.blog" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Enrique+Medellin/Silicon+Valley+Real+Estate-+Using+photos+to+lure+online+home+buyers.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the San Jose Area Real Estate Market</itunes:subtitle>
+        <itunes:author>Enrique Medellin</itunes:author>
+        <itunes:summary>It may seem hard to believe, but 90% of buyers in today's world of real estate start their search online. Professionally shot photos of your home are the best way to make an impression on them.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Jose, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>What's the Deal with Home Inspections?</title>
-        <link>http://treasuredavisrealestateadvisors.com/whats-deal-with-home-inspections.html</link>
+        <link>http://prg-re.blog/whats-deal-with-home-inspections.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -45,7 +82,7 @@ What I like about House Master is that Bruce comes around the office twice a mon
 to reach out to either one of us and we’ll be in touch!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://treasuredavisrealestateadvisors.com" height="72" width="72"/>
+        <media:thumbnail url="http://prg-re.blog" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the San Jose Area Real Estate Market</itunes:subtitle>
@@ -60,7 +97,7 @@ Today I’m joined by Bruce Howe from House Master, who we’ve been working wit
       
       <item>
         <title>Price to Sell this Summer in The Valley</title>
-        <link>http://treasuredavisrealestateadvisors.com/price-to-sell-this-summer-in-valley.html</link>
+        <link>http://prg-re.blog/price-to-sell-this-summer-in-valley.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -82,7 +119,7 @@ Group C: Homes priced a little less than what we expect to get. We feel this str
 You’ll get more people coming through, and more offers, which drives the price up. There are more details that come into play of course. If you have questions, please feel free to reach out to us.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://treasuredavisrealestateadvisors.com" height="72" width="72"/>
+        <media:thumbnail url="http://prg-re.blog" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the San Jose Area Real Estate Market</itunes:subtitle>
@@ -97,7 +134,7 @@ If you’re thinking about selling your home this summer in The Valley, you want
       
       <item>
         <title>2nd Quarter Silicon Valley Market Update</title>
-        <link>http://treasuredavisrealestateadvisors.com/2nd-quarter-silicon-valley-market-update.html</link>
+        <link>http://prg-re.blog/2nd-quarter-silicon-valley-market-update.html</link>
         
           <category>Market Updates</category>
         
@@ -117,7 +154,7 @@ If you’re looking to sell, it’s still a good time, and if you’re looking t
 Thanks again for your support. If you have any questions, please feel free to get in touch and we’ll talk soon.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://treasuredavisrealestateadvisors.com" height="72" width="72"/>
+        <media:thumbnail url="http://prg-re.blog" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the San Jose Area Real Estate Market</itunes:subtitle>
@@ -132,7 +169,7 @@ We’re onto the second quarter in the Santa Clara County real estate market, so
       
       <item>
         <title>Can Zillow Give You an Accurate Home Value?</title>
-        <link>http://treasuredavisrealestateadvisors.com/silicon-valley-real-estate-zestimates.html</link>
+        <link>http://prg-re.blog/silicon-valley-real-estate-zestimates.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -152,7 +189,7 @@ When a professional agent like one of us comes to your home, we are going to tak
 These are all things that should be taken into account when trying to pinpoint your value. Zillow is a great starting point, but if you’re looking to make a certain amount of money on your sale, you definitely want to contact a professional. If you have any questions at all, feel free to reach out to us via phone or email. We are always here to help.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://treasuredavisrealestateadvisors.com" height="72" width="72"/>
+        <media:thumbnail url="http://prg-re.blog" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the San Jose Area Real Estate Market</itunes:subtitle>
@@ -167,7 +204,7 @@ We’ve been getting the question “Is Zillow an accurate place to find my home
       
       <item>
         <title>How Can Security Systems Help Sell Your Silicon Valley Home?</title>
-        <link>http://treasuredavisrealestateadvisors.com/silicon-valley-real-estate-home-security.html</link>
+        <link>http://prg-re.blog/silicon-valley-real-estate-home-security.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -187,7 +224,7 @@ We have just formed a partnership with Skyline Security and anyone who buys a ho
 We look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://treasuredavisrealestateadvisors.com" height="72" width="72"/>
+        <media:thumbnail url="http://prg-re.blog" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the San Jose Area Real Estate Market</itunes:subtitle>
@@ -202,7 +239,7 @@ Today I have Angel Orozco from Skyline Security and he’s going to be talking a
       
       <item>
         <title>Four Tips for First-Time Silicon Valley Home Buyers</title>
-        <link>http://treasuredavisrealestateadvisors.com/silicon-valley-real-estate-first-time.html</link>
+        <link>http://prg-re.blog/silicon-valley-real-estate-first-time.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -224,7 +261,7 @@ Today, we’ll be discussing four valuable tips for first-time home buyers in th
 If you’re thinking about buying or selling a home in the area, give me a call or send me an email today. We look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://treasuredavisrealestateadvisors.com" height="72" width="72"/>
+        <media:thumbnail url="http://prg-re.blog" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the San Jose Area Real Estate Market</itunes:subtitle>
@@ -239,7 +276,7 @@ Today, we’ll be discussing four valuable tips for first-time home buyers in th
       
       <item>
         <title>Should You Sell Your Home Before Buying a New One?</title>
-        <link>http://treasuredavisrealestateadvisors.com/silicon-valley-buy-sell-same-time.html</link>
+        <link>http://prg-re.blog/silicon-valley-buy-sell-same-time.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -263,7 +300,7 @@ In this market, sellers need to be aware of something called rent-backs. Basical
 If you have questions about how you can make your move as smooth as possible, or if you have any questions about our local market, please don’t hesitate to reach out to us. We would love to give you a hand!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://treasuredavisrealestateadvisors.com" height="72" width="72"/>
+        <media:thumbnail url="http://prg-re.blog" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the San Jose Area Real Estate Market</itunes:subtitle>
@@ -278,7 +315,7 @@ If you plan on selling your current house and buying a new one, there are a few 
       
       <item>
         <title>Is Your Silicon Valley Home Ready to Sell This Spring?</title>
-        <link>http://treasuredavisrealestateadvisors.com/silicon-valley-real-estate-spring-sell.html</link>
+        <link>http://prg-re.blog/silicon-valley-real-estate-spring-sell.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -303,7 +340,7 @@ The busiest selling season is approaching quickly. Today, we’ll go over five w
 If you have any questions, give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://treasuredavisrealestateadvisors.com" height="72" width="72"/>
+        <media:thumbnail url="http://prg-re.blog" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the San Jose Area Real Estate Market</itunes:subtitle>
@@ -317,7 +354,7 @@ The busiest selling season is approaching quickly. Today, we’ll go over five w
       
       <item>
         <title>5 Questions to Ask an Agent Before Hiring Them</title>
-        <link>http://treasuredavisrealestateadvisors.com/santa-clara-real-estate-agent-questions.html</link>
+        <link>http://prg-re.blog/santa-clara-real-estate-agent-questions.html</link>
         
           <category>Agent Questions</category>
         
@@ -340,7 +377,7 @@ When it comes time for you to hire a real estate agent, you have almost too many
 Thanks for joining me today. If you have any questions about this topic, or are looking to buy or sell in Silicon Valley, give us a call or send us an email. We would love to hear from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://treasuredavisrealestateadvisors.com" height="72" width="72"/>
+        <media:thumbnail url="http://prg-re.blog" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the San Jose Area Real Estate Market</itunes:subtitle>
@@ -355,7 +392,7 @@ When it comes time for you to hire a real estate agent, you have almost too many
       
       <item>
         <title>What's Happening with Santa Clara County Real Estate?</title>
-        <link>http://treasuredavisrealestateadvisors.com/santa-clara-real-estate-market-update.html</link>
+        <link>http://prg-re.blog/santa-clara-real-estate-market-update.html</link>
         
           <category>Market Update</category>
         
@@ -378,7 +415,7 @@ For buyers, the market is quite competitive. It might take a little while to get
 If you have any questions, give us a call or send us an email. We look forward to hearing from you!
 </description>
         <enclosure url="" length="" type=""/>
-        <media:thumbnail url="http://treasuredavisrealestateadvisors.com" height="72" width="72"/>
+        <media:thumbnail url="http://prg-re.blog" height="72" width="72"/>
         <media:content url="" type=""/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the San Jose Area Real Estate Market</itunes:subtitle>
