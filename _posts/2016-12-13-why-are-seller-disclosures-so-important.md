@@ -18,7 +18,7 @@ youtube_code: u4eBw-XwR3U
 
 I recently met with a seller who asked me what they should disclose about their home to their buyer. I wanted to answer that question for all of you today.
 
-**If you were to look up real estate lawsuits, you will see that a good portion of them have to do with seller disclosures, and sellers failing to disclose certain things they know about the property.**Whether the roof is a tad leaky in one spot or there is a lot of traffic in the area, you need to disclose it all to the seller. Anything that you know about the property that will affect its marketability is required to be disclosed by law. Here are three tips to help you avoid situations of failing to disclose enough information to the seller.
+**If you were to look up real estate lawsuits, you will see that a good portion of them have to do with seller disclosures, and sellers failing to disclose certain things they know about the property****.** Whether the roof is a tad leaky in one spot or there is a lot of traffic in the area, you need to disclose it all to the seller. Anything that you know about the property that will affect its marketability is required to be disclosed by law. Here are three tips to help you avoid situations of failing to disclose enough information to the seller.
 
 {% include pullquote.html %}
 
