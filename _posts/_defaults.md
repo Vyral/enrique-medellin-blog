@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-pullquote: Andross, the Final Boss
+pullquote: 
 excerpt:
 enclosure:
 enclosure_type: video/mp4
