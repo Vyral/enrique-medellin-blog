@@ -18,9 +18,9 @@ youtube_code: XmiJIbj1m0U
 
 The new year is finally under way, so I wanted to give you my predictions for the 2017 Santa Clara real estate market. I’ll also give you a quick recap of what happened in 2016.
 
-**Additionally, I wanted to let you know how thankful we are for your support!** We hope you had a fantastic new year and we look forward to working with you this year.
+**Additionally, I wanted to let you know how thankful we are for your support!** We hope you had a fantastic New Year and we look forward to working with you this year.
 
-So did the market at the end of 2016 look like?
+So what did the market at the end of 2016 look like?
 
 {% include pullquote.html %}
 
