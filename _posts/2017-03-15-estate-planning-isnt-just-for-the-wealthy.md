@@ -18,7 +18,7 @@ youtube_code: R0SdIsXXWLI
 
 Estate planning is an important topic for everyone, so today I'm happy to be joined by David Park of estate planning firm Horner Park Law to help me discuss it.
 
-Estate planning is a complete set of documents that typically includes a will or trust and other things that basically acts as a set of instructions for what you want to happen to your property in the event you pass away or who you want to control it if you're incapacitated.
+Estate planning is a complete set of documents that typically includes a will or trust and other things that basically **acts as a set of instructions for what you want to happen to your property in the event you pass away or who you want to control it if you're incapacitated.**
 
 The biggest misconception about estate planning is that it's only for the wealthy.
 
