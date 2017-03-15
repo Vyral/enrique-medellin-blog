@@ -16,15 +16,15 @@ youtube_code: R0SdIsXXWLI
 
 {% include youtube.html %}
 
-Estate planning is an important topic for everyone, so today I'm happy to be joined by David Park of estate planning firm Horner Park Law to help me discuss it.&nbsp;
+Estate planning is an important topic for everyone, so today I'm happy to be joined by David Park of estate planning firm Horner Park Law to help me discuss it.
 
-Estate planning is a complete set of documents that typically includes a will or trust and other things that basically acts as a set of instructions for what you want to happen to your property in the event you pass away or who you want to control it if you're incapacitated.&nbsp;
+Estate planning is a complete set of documents that typically includes a will or trust and other things that basically acts as a set of instructions for what you want to happen to your property in the event you pass away or who you want to control it if you're incapacitated.
 
-The biggest misconception about estate planning is that it's only for the wealthy.&nbsp;
+The biggest misconception about estate planning is that it's only for the wealthy.
 
 {% include pullquote.html %}
 
-While it's true that the wealthy use estate planning to hold onto their wealth, the majority of people use estate planning to avoid probate, which is especially important to homeowners. If you have to go through probate, it takes a long time and costs a lot of money. The probate process usually takes a minimum of one year and can cost tens of thousands of dollars.&nbsp;
+While it's true that the wealthy use estate planning to hold onto their wealth, the majority of people use estate planning to avoid probate, which is especially important to homeowners. If you have to go through probate, it takes a long time and costs a lot of money. The probate process usually takes a minimum of one year and can cost tens of thousands of dollars.
 
 Probate can be tough because after a loved one passes away, it's hard to move on when they're tied up in the probate process in the court system.
 
