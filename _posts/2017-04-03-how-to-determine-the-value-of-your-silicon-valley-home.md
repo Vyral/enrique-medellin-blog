@@ -25,7 +25,7 @@ First, we'll look at data from what has recently sold in the area. We'll typical
 
 **Next, we want to make sure the homes we're comparing to yours are in similar condition.**For example, if your home is remodeled, we want to compare it to other homes that are remodeled or updated.
 
-Finally, we'll determine sales trends by comparing list prices and actual sales prices. Are homes selling well above asking price? Maybe they're selling for less than the asking price. This will also\*\* tell us how fast homes are moving in the area.\*\* All these factors will help determine where we need to price your home.
+Finally, we'll determine sales trends by comparing list prices and actual sales prices. Are homes selling well above asking price? Maybe they're selling for less than the asking price. This will also&nbsp;**tell us how fast homes are moving in the area.&nbsp;**All these factors will help determine where we need to price your home.
 
 I always recommend you have a professional real estate agent come out to your home for a thorough evaluation if you're thinking about selling.
 
