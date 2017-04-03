@@ -19,11 +19,11 @@ youtube_code: 5CgKjUoyMwQ
 
 What's the best way to determine the value of your house when you're getting ready to sell? I wanted to let you in on what we do on our team to determine a home's value before it hits the market.
 
-First, we'll look at data from what has recently sold in the area. We'll typically look back anywhere from three to six months to find sales to give us the most accurate price. We make sure we compare you home to other homes within 10% to 15% of your square footage.
+First, we'll look at data from what has recently sold in the area. We'll typically look back anywhere from three to six months to find sales to give us the most accurate price. We make sure we compare your home to other homes within 10% to 15% of your square footage.
 
 {% include pullquote.html %}
 
-**Next, we want to make sure the homes we're comparing to yours are in similar condition.**For example, if your home is remodeled, we want to compare it to other homes that are remodeled or updated.
+**Next, we want to make sure the homes we're comparing to yours are in similar condition.&nbsp;**For example, if your home is remodeled, we want to compare it to other homes that are remodeled or updated.
 
 Finally, we'll determine sales trends by comparing list prices and actual sales prices. Are homes selling well above asking price? Maybe they're selling for less than the asking price. This will also&nbsp;**tell us how fast homes are moving in the area.&nbsp;**All these factors will help determine where we need to price your home.
 
