@@ -4,23 +4,32 @@ description: 'Learn all the tips, tricks and more for buyers and sellers from PR
 show_custom_links: true
 custom_links:
   - title: Marketing Plan
-    url: http://realestateprg.com/our-marketing/
+    url: 'http://realestateprg.com/our-marketing/'
   - title: Our Listings
-    url: http://realestateprg.com/listings/
+    url: 'http://realestateprg.com/listings/'
 client:
   name:
   license_number:
-  about_markdown: |
-    Enrique Medellin leads #TEAMPRG, a new breed of Realtors who are redefining traditional methods, by bringing a fresh and modern approach to Real Estate. By leveraging cutting-edge marketing, the latest in Real Estate technology and providing World-Class customized service, #TEAMPRG has earned a reputation for delivering extraordinary results for buyer and sellers throughout the Silicon Valley/Bay Area.
+  about_markdown: >
+    Enrique Medellin leads #TEAMPRG, a new breed of Realtors who are redefining
+    traditional methods, by bringing a fresh and modern approach to Real Estate.
+    By leveraging cutting-edge marketing, the latest in Real Estate technology
+    and providing World-Class customized service, #TEAMPRG has earned
+    a reputation for delivering extraordinary results for buyer and sellers
+    throughout the Silicon Valley/Bay Area.
 
-    Why hire #TEAMPRG to sell your home? Our Average Sales Price is 5% over list price and Average Days on Market 19 days (Area Average is 50 days). We sell homes FASTER and for MORE money.
+
+
+    Why hire #TEAMPRG to sell your home? Our Average Sales Price is 5% over list
+    price and Average Days on Market 19 days (Area Average is 50 days). We sell
+    homes FASTER and for MORE money.
   market: San Jose
   brand: PRG Real Estate
   brokerage:
   address: '1590 Oakland Rd #B104<br>San Jose, CA 95131'
   phone: 408-416-2488
   email: info@realestatePRG.com
-  url: http://RealEstatePRG.com
+  url: 'http://RealEstatePRG.com'
   first_CTA_text: Home Evaluation
   first_CTA_URL: 'http://www.texthomevalue.com'
   second_CTA_text: Home Search
@@ -38,13 +47,13 @@ socials:
   instagram_url:
   pinterest_url:
   zillow_url: 'http://www.zillow.com/profile/TEAM-PRG/'
-  trulia_url: 
+  trulia_url:
   yelp_url:
   podcast_url: 'https://itunes.apple.com/us/podcast/enrique-medellin-real-estate/id1075193302?mt=2'
 podcast:
   title: PRG Real Estate Podcast
-  categories: 'News &amp; Politics'
-  image: 'http://i.imgur.com/DUtCRwl.png'
+  categories:
+  image: /uploads/medellin-podcast-header.png
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers from PRG Real Estate'
   description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from PRG Real Estate.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Jose, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
@@ -56,7 +65,7 @@ images:
   hero_background_hex: '#27b9cd'
   hero_image_path: /img/background.jpg
 brand_color: '#27b9cd'
-theme_color: '#4A4A4A'
+theme_color: '#4a4a4a'
 theme_text_color: '#353535'
 main_body_color: '#f9f9f9'
 main_body_text_color: '#353535'
