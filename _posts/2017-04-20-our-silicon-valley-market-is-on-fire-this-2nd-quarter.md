@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Santa Clara Market Is on Fire This 2nd Quarter
+title: Our Silicon Valley Market Is on Fire This 2nd Quarter
 tags:
   - Market Update
 pullquote: 'Our market is on fire, especially if you’re a seller.'
@@ -16,7 +16,7 @@ youtube_code: j4qYUAIZbTo
 
 {% include youtube.html %}
 
-Our Santa Clara market is on fire in the second quarter, especially if you’re a seller.&nbsp;
+Our Silicon Valley market is on fire in the second quarter, especially if you’re a seller.&nbsp;
 
 Despite the fact that inventory has risen from 600 homes for sale back in December to roughly 1,200 at the current moment, it’s still near an all-time low. There’s a little bit more to choose from, **but we have just one month of available inventory right now.&nbsp;**
 
