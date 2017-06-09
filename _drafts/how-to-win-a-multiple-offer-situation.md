@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Win a Multiple Offer Situation
+title: Why Don’t Homes Sell in Silicon Valley?
 tags:
   - Market Update
   - Real Estate
@@ -15,6 +15,8 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
+
+
 {% include youtube.html %}
 
 {% include pullquote.html %}
