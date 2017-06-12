@@ -24,7 +24,7 @@ The first is the home simply doesn’t show well. If a home is dark, dingy, or c
 
 The second reason a home might not sell is buyers can’t get into it. If you put too many restrictions on when your home can be shown, fewer people will be able to walk through it and put an offer on it.
 
-The third reason is its photos might be bad. A home might look amazing in person, but if its photos are not professionally done, that will lessen the number of people who are attracted to it. Remember, almost everyone starts their home search online, and the first thing they see are photos. If your home’s photos don’t show well, buyers might skip over it and move on to the next home.
+The third reason a home might not sell is because the photos might be bad. A home might look amazing in person, but if the photos of it are not professionally done, it will attract fewer people. Remember, almost everyone starts their home search online, and the photos are the first thing they see. If your home’s photos don’t show well, buyers might skip over it and move on to the next home.
 
 The fourth reason is the home can’t get financing. Most buyers need a mortgage to buy a home, so your home needs to be financeable. If there is a lot of damage to it or there are issues regarding its title, the lender may not want to lend money on your property.
 
