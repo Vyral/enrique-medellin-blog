@@ -17,7 +17,7 @@ enclosure: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/2-transactions-youtube-3.jpg
 youtube_code: kXEpk7yTE5k
 ---
 
@@ -32,7 +32,7 @@ However, I have four tips to help you avoid stress, prevent letdowns, and make t
 
 1. Identify the area you want to move to and narrow down criteria for your next house. After your current home is under contract, you don’t want to spend time trying pin down where you want to live next. Do your homework up front and know where you are headed next before listing your current home.
 
-2. Negotiate a rent-back on your current home. Sellers can negotiate a rent-back from the buyer and stay in their current property for 30, 60, or even 90 days while they purchase their next home. We’ve even been able to negotiate a rent-back at no cost to the seller because their property is in such high demand. As a seller, the rent-back allows you to move at a smoother pace and find your next home.
+2. Negotiate a rent-back on your current home. Sellers can negotiate a rent-back from the buyer and stay in their current property for 30, 60, or even 90 days while they purchase their next home. We’ve even been able to negotiate a rent-back at no cost to the seller because their property is in such high demand. As a seller, the rent-back allows you to move at a smoother pace and find your next home. {% include pullquote.html %}
 
 3. Do not submit offers too soon. I’ve seen people get let down so much in this market. Some sellers make the mistake of trying to find their replacement property the minute their home hits the market or before they even get an offer. You don’t want to fall in love with a home that you don’t have the ability to purchase. You need to know when the time is right to start actively submitting offers on a new home.
 
@@ -41,7 +41,3 @@ However, I have four tips to help you avoid stress, prevent letdowns, and make t
 If you have a strategy and an experienced agent to guide you, then you can buy and sell a home at the same time—even in this hot market.
 
 If you have any other questions, just give me a call or send me an email. I would be happy to help you!
-
-&nbsp;
-
-{% include pullquote.html %}
