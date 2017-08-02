@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Handle 2 Real Estate Transactions at Once
+title: How to Effectively Sell and Buy at the Same Time
 tags:
   - Market Update
   - Real Estate
