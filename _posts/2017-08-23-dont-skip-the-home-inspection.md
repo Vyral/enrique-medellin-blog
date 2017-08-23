@@ -39,7 +39,9 @@ You don’t want to move in and suddenly have to deal with a major plumbing leak
 I recommend that every homebuyer orders these three inspections:
 
 1. **The general property inspection.** The inspector will check all of the mechanics of the home, including plumbing and the electrical system, and let you know if there are any red flags.
+
 2. **The pest and/or termite inspection.** The inspector will look for any existing, active infestations, as well as conditions that could lead to future infestations. The inspector will then tell you how to resolve or prevent those infestations.
+
 3. **The roof inspection.** The roof is a big ticket item, so it’s important that you get an assessment of how much longer the roof will last.
 
 Based on the findings of those inspections, you can then determine whether you want to negotiate repairs with the seller or walk away from the deal. Make sure that you are comfortable with the amount of work or maintenance that needs to be done on the home before you purchase it.
