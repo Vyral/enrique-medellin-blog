@@ -26,7 +26,7 @@ youtube_code: K2K1Fie2E1w
 
 If you’re considering buying inside of a homeowners association (or HOA), there are five things you need to know.
 
-**1. What are the monthly costs?**In our area, this expense can be between a couple hundred per month or even $1,000 per month depending on what is covered.<br>**2. What is included?** If you are paying $500 a month, you’re going to want to know what you’re getting for that money. Some HOA fees cover utilities, offer parking, or include security. The amenities covered by your monthly fees will vary depending on your HOA.<br>**3. What are the rules?**Often, HOAs have restrictions that need to be considered before you move. For example, some HOAs have rules against pets of a certain size. It’s important you know what the rules are before making your decision to move.
+**1. What are the monthly costs?** In our area, this expense can be between a couple hundred per month or even $1,000 per month depending on what is covered.<br>**2. What is included?** If you are paying $500 a month, you’re going to want to know what you’re getting for that money. Some HOA fees cover utilities, offer parking, or include security. The amenities covered by your monthly fees will vary depending on your HOA.<br>**3. What are the rules?**Often, HOAs have restrictions that need to be considered before you move. For example, some HOAs have rules against pets of a certain size. It’s important you know what the rules are before making your decision to move.
 
 {% include pullquote.html %}
 
