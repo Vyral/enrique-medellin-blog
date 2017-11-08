@@ -17,8 +17,8 @@ enclosure: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/medellin-youtube.jpg
-youtube_code: K2K1Fie2E1w
+youtube_alternate_image: /uploads/medellin-youtube-1.jpg
+youtube_code: KtnQ158RcWg
 ---
 
 
