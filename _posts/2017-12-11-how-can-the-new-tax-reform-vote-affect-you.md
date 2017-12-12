@@ -28,7 +28,7 @@ If you’ve been paying attention to the news, you know that the Senate and Hous
 
 There are three key points they’re voting on that you need to be mindful of:
 
-**1. How you deduct mortgage interest.** They’re trying to cap (or in some circumstances, eliminate) your ability to deduct mortgage interest, which can be a huge write-off at the end of the year for most people.<br>**2. Your ability to deduct property taxes.**This is something they’re trying to eliminate. If you’re buying a home in the Bay area, where the median sale price is $1 million or more, property taxes represent a hefty amount that you may lose the ability to write off.
+**1. How you deduct mortgage interest.** They’re trying to cap (or in some circumstances, eliminate) your ability to deduct mortgage interest, which can be a huge write-off at the end of the year for most people.<br>**2. Your ability to deduct property taxes.** This is something they’re trying to eliminate. If you’re buying a home in the Bay area, where the median sale price is $1 million or more, property taxes represent a hefty amount that you may lose the ability to write off.
 
 {% include pullquote.html %}
 
